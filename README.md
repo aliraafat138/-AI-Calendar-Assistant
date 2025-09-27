@@ -43,5 +43,4 @@ This setup turns your inbox into a **smart scheduling assistant**.
 <img width="1073" height="497" alt="image" src="https://github.com/user-attachments/assets/7f7e2f42-9259-44d6-a467-f9f4f61c7bb4" />
 
 
-### Example 1: Read Events
-**User:**  
+
